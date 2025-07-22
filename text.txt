@@ -1,1 +1,1 @@
-1.city:none
+1.city:bangalore
